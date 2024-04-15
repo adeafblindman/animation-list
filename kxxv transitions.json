@@ -34,32 +34,54 @@
   },
   {
     "user_transition" : true,
-    "unique_id" : "America Votes 2024 NH Primary 2s",
+    "unique_id" : "America Votes 2024 Super Tuesday 2s",
     "item_b_start_frame_offset" : 1.8184833333333332,
     "item_a_end_frame_offset" : 0,
     "duration" : 4.0039999999999996,
     "type" : "alphaMovie",
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/America Votes 2024 NH Primary 2s.mov",
-    "name" : "America Votes 2024 NH Primary 2s",
-    "should_premultiply_by_alpha" : false
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/America Votes 2024 Super Tuesday 2s.mov",
+    "name" : "America Votes 2024 Super Tuesday 2s",
+    "should_premultiply_by_alpha" : true
   },
   {
     "user_transition" : true,
-    "unique_id" : "America Votes 2024 NH Primary 4s",
+    "unique_id" : "America Votes 2024 Super Tuesday 4s",
     "item_b_start_frame_offset" : 3.0196833333333335,
     "item_a_end_frame_offset" : 0,
     "duration" : 6.0060000000000002,
     "type" : "alphaMovie",
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/America Votes 2024 NH Primary 4s.mov",
-    "name" : "America Votes 2024 NH Primary 4s",
-    "should_premultiply_by_alpha" : false
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/America Votes 2024 Super Tuesday 4s.mov",
+    "name" : "America Votes 2024 Super Tuesday 4s",
+    "should_premultiply_by_alpha" : true
+  },
+  {
+    "user_transition" : true,
+    "unique_id" : "America Votes 2024 Super Tuesday Open 8s",
+    "item_b_start_frame_offset" : 6.9235833333333332,
+    "item_a_end_frame_offset" : 0,
+    "duration" : 8.0413666666666668,
+    "type" : "alphaMovie",
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/America Votes 2024 Super Tuesday Open 8s.mov",
+    "name" : "America Votes 2024 Super Tuesday Open 8s",
+    "should_premultiply_by_alpha" : true
+  },
+  {
+    "user_transition" : true,
+    "unique_id" : "America Votes 2024 Super Tuesday Transition",
+    "item_b_start_frame_offset" : 1.1678333333333333,
+    "item_a_end_frame_offset" : 0.50050000000000006,
+    "duration" : 1.5015000000000001,
+    "type" : "alphaMovie",
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/America Votes 2024 Super Tuesday Transition.mov",
+    "name" : "America Votes 2024 Super Tuesday Transition",
+    "should_premultiply_by_alpha" : true
   },
   {
     "user_transition" : true,
     "unique_id" : "America Votes ROLL",
     "item_b_start_frame_offset" : 4.8381666666666669,
     "item_a_end_frame_offset" : 0.63396666666666657,
-    "duration" : 1.5015000000000001,
+    "duration" : 7.0069999999999997,
     "type" : "alphaMovie",
     "path" : "\/Volumes\/OTT CONTENT\/_PLAYOUT\/Elements\/America Votes ROLL.mov",
     "name" : "America Votes ROLL",
@@ -92,7 +114,7 @@
     "unique_id" : "AMERICA_FORWARD",
     "item_b_start_frame_offset" : 1.0176833333333333,
     "item_a_end_frame_offset" : 0.41708333333333342,
-    "duration" : 1.5181833333333334,
+    "duration" : 6.0060000000000002,
     "type" : "alphaMovie",
     "path" : "\/Applications\/OnTheAir CG\/MEDIA\/AMERICA_FORWARD.mov",
     "name" : "AMERICA_FORWARD",
@@ -184,6 +206,28 @@
     "type" : "alphaMovie",
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/BUMP OUT_RED.mov",
     "name" : "BUMP OUT_RED",
+    "should_premultiply_by_alpha" : true
+  },
+  {
+    "user_transition" : true,
+    "unique_id" : "College Basketball Championships 2s",
+    "item_b_start_frame_offset" : 1.5014999999999998,
+    "item_a_end_frame_offset" : 0,
+    "duration" : 4.0039999999999996,
+    "type" : "alphaMovie",
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/College Basketball Championships 2s.mov",
+    "name" : "College Basketball Championships 2s",
+    "should_premultiply_by_alpha" : true
+  },
+  {
+    "user_transition" : true,
+    "unique_id" : "College Basketball Championships 4s",
+    "item_b_start_frame_offset" : 3.386716666666667,
+    "item_a_end_frame_offset" : 0,
+    "duration" : 6.0060000000000002,
+    "type" : "alphaMovie",
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/College Basketball Championships 4s.mov",
+    "name" : "College Basketball Championships 4s",
     "should_premultiply_by_alpha" : true
   },
   {
@@ -430,13 +474,13 @@
   },
   {
     "user_transition" : true,
-    "unique_id" : "Severe Winter Weather Open",
-    "item_b_start_frame_offset" : 7.0737333333333332,
+    "unique_id" : "Severe WX Open",
+    "item_b_start_frame_offset" : 7.1738333333333326,
     "item_a_end_frame_offset" : 0,
     "duration" : 8.0079999999999991,
     "type" : "alphaMovie",
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/Severe Winter Weather Open.mov",
-    "name" : "Severe Winter Weather Open",
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/Severe WX Open.mov",
+    "name" : "Severe WX Open",
     "should_premultiply_by_alpha" : true
   },
   {
@@ -492,39 +536,6 @@
     "type" : "alphaMovie",
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Opens\/SHOW OPEN PM LATE.mov",
     "name" : "SHOW OPEN PM LATE",
-    "should_premultiply_by_alpha" : true
-  },
-  {
-    "user_transition" : true,
-    "unique_id" : "SHOW REOPEN TALENT MIDDAY",
-    "item_b_start_frame_offset" : 5.271933333333334,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 6.0060000000000002,
-    "type" : "alphaMovie",
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Opens\/SHOW REOPEN TALENT MIDDAY.mov",
-    "name" : "SHOW REOPEN TALENT MIDDAY",
-    "should_premultiply_by_alpha" : true
-  },
-  {
-    "user_transition" : true,
-    "unique_id" : "SHOW REOPEN TALENT PM",
-    "item_b_start_frame_offset" : 5.2385666666666664,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 6.0060000000000002,
-    "type" : "alphaMovie",
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Opens\/SHOW REOPEN TALENT PM.mov",
-    "name" : "SHOW REOPEN TALENT PM",
-    "should_premultiply_by_alpha" : true
-  },
-  {
-    "user_transition" : true,
-    "unique_id" : "SHOW REOPEN TALENT PM LATE",
-    "item_b_start_frame_offset" : 7.1071000000000009,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 9.0090000000000003,
-    "type" : "alphaMovie",
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Opens\/SHOW REOPEN TALENT PM LATE.mov",
-    "name" : "SHOW REOPEN TALENT PM LATE",
     "should_premultiply_by_alpha" : true
   },
   {
@@ -767,17 +778,6 @@
     "type" : "alphaMovie",
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/WIPE WXR SEVERE.mov",
     "name" : "WIPE WXR SEVERE",
-    "should_premultiply_by_alpha" : true
-  },
-  {
-    "user_transition" : true,
-    "unique_id" : "WIPE WXR SEVERE 4s",
-    "item_b_start_frame_offset" : 3.0864166666666661,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 4.0039999999999996,
-    "type" : "alphaMovie",
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/WIPE WXR SEVERE 4s.mov",
-    "name" : "WIPE WXR SEVERE 4s",
     "should_premultiply_by_alpha" : true
   },
   {
@@ -1295,7 +1295,7 @@
     "type" : "alphaMovie",
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Locator Wipes\/WIPE_LOC_COPPERAS COVE_4s_.mov",
     "name" : "WIPE_LOC_COPPERAS COVE_4s_",
-    "should_premultiply_by_alpha" : false
+    "should_premultiply_by_alpha" : true
   },
   {
     "user_transition" : true,
@@ -1328,6 +1328,17 @@
     "type" : "alphaMovie",
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Locator Wipes\/WIPE_LOC_COPPERAS COVE_C_.mov",
     "name" : "WIPE_LOC_COPPERAS COVE_C_",
+    "should_premultiply_by_alpha" : true
+  },
+  {
+    "user_transition" : true,
+    "unique_id" : "WIPE_LOC_FALLS_COUNTY_4s",
+    "item_b_start_frame_offset" : 3.0864166666666661,
+    "item_a_end_frame_offset" : 0,
+    "duration" : 4.0039999999999996,
+    "type" : "alphaMovie",
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Locator Wipes No Imagery\/WIPE_LOC_FALLS_COUNTY_4s.mov",
+    "name" : "WIPE_LOC_FALLS_COUNTY_4s",
     "should_premultiply_by_alpha" : true
   },
   {
@@ -2751,6 +2762,17 @@
   },
   {
     "user_transition" : true,
+    "unique_id" : "WIPE_Severe Weather_4s",
+    "item_b_start_frame_offset" : 3.0864166666666661,
+    "item_a_end_frame_offset" : 0,
+    "duration" : 4.0039999999999996,
+    "type" : "alphaMovie",
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/WIPE_Severe Weather_4s.mov",
+    "name" : "WIPE_Severe Weather_4s",
+    "should_premultiply_by_alpha" : true
+  },
+  {
+    "user_transition" : true,
     "unique_id" : "WIPE_SPORTS_4s",
     "item_b_start_frame_offset" : 3.0864166666666661,
     "item_a_end_frame_offset" : 0,
@@ -2846,28 +2868,6 @@
     "type" : "alphaMovie",
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/Generics\/WIPE_WHATS_HAPPENING_4s.mov",
     "name" : "WIPE_WHATS_HAPPENING_4s",
-    "should_premultiply_by_alpha" : true
-  },
-  {
-    "user_transition" : true,
-    "unique_id" : "WIPE_Winter_Severe WX",
-    "item_b_start_frame_offset" : 1.7517499999999999,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 2.0019999999999998,
-    "type" : "alphaMovie",
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/WIPE_Winter_Severe WX.mov",
-    "name" : "WIPE_Winter_Severe WX",
-    "should_premultiply_by_alpha" : true
-  },
-  {
-    "user_transition" : true,
-    "unique_id" : "WIPE_Winter_Severe WX_4s",
-    "item_b_start_frame_offset" : 3.0864166666666661,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 4.0039999999999996,
-    "type" : "alphaMovie",
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/WIPE_Winter_Severe WX_4s.mov",
-    "name" : "WIPE_Winter_Severe WX_4s",
     "should_premultiply_by_alpha" : true
   },
   {
