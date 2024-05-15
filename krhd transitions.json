@@ -12,18 +12,6 @@
     "name" : "ABORTION IN AMERICA"
   },
   {
-    "path" : "\/Applications\/OnTheAir CG\/MEDIA\/America Votes 2023.mov",
-    "user_transition" : true,
-    "unique_id" : "America Votes 2023",
-    "item_b_start_frame_offset" : 1.2345666666666668,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 1.5015000000000001,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "America Votes 2023"
-  },
-  {
     "path" : "\/Applications\/OnTheAir CG\/MEDIA\/America Votes 2024.mov",
     "user_transition" : true,
     "unique_id" : "America Votes 2024",
@@ -36,28 +24,40 @@
     "name" : "America Votes 2024"
   },
   {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/America Votes 2024 NH Primary 2s.mov",
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/America Votes ROLL.mov",
     "user_transition" : true,
-    "unique_id" : "America Votes 2024 NH Primary 2s",
-    "item_b_start_frame_offset" : 1.8184833333333332,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 4.0039999999999996,
+    "unique_id" : "America Votes ROLL",
+    "item_b_start_frame_offset" : 4.8381666666666669,
+    "item_a_end_frame_offset" : 0.63396666666666657,
+    "duration" : 7.0069999999999997,
     "should_premultiply_by_alpha" : true,
     "type" : "alphaMovie",
     "warning" : "",
-    "name" : "America Votes 2024 NH Primary 2s"
+    "name" : "America Votes ROLL"
   },
   {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/America Votes 2024 NH Primary 4s.mov",
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/America Votes Star Flip WIPE.mov",
     "user_transition" : true,
-    "unique_id" : "America Votes 2024 NH Primary 4s",
-    "item_b_start_frame_offset" : 3.0196833333333335,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 6.0060000000000002,
+    "unique_id" : "America Votes Star Flip WIPE",
+    "item_b_start_frame_offset" : 0.83416666666666661,
+    "item_a_end_frame_offset" : 0.48381666666666662,
+    "duration" : 1.1678333333333333,
     "should_premultiply_by_alpha" : true,
     "type" : "alphaMovie",
     "warning" : "",
-    "name" : "America Votes 2024 NH Primary 4s"
+    "name" : "America Votes Star Flip WIPE"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/America Votes Star WIPE.mov",
+    "user_transition" : true,
+    "unique_id" : "America Votes Star WIPE",
+    "item_b_start_frame_offset" : 0.68401666666666661,
+    "item_a_end_frame_offset" : 0.66733333333333322,
+    "duration" : 1.0009999999999999,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "America Votes Star WIPE"
   },
   {
     "path" : "\/Applications\/OnTheAir CG\/MEDIA\/AMERICA_FORWARD.mov",
@@ -70,6 +70,18 @@
     "type" : "alphaMovie",
     "warning" : "",
     "name" : "AMERICA_FORWARD"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/AROUND_TEXAS_4S.mov",
+    "user_transition" : true,
+    "unique_id" : "AROUND_TEXAS_4S",
+    "item_b_start_frame_offset" : 3.2365666666666666,
+    "item_a_end_frame_offset" : 0.23356666666666664,
+    "duration" : 4.0039999999999996,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "AROUND_TEXAS_4S"
   },
   {
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/blue wipe.mov",
@@ -166,6 +178,54 @@
     "type" : "alphaMovie",
     "warning" : "",
     "name" : "BUMP_OUT"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/Celebrating Pride Month 2s.mov",
+    "user_transition" : true,
+    "unique_id" : "Celebrating Pride Month 2s",
+    "item_b_start_frame_offset" : 1.5181833333333332,
+    "item_a_end_frame_offset" : 0,
+    "duration" : 4.0039999999999996,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "Celebrating Pride Month 2s"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/Celebrating Pride Month 4s.mov",
+    "user_transition" : true,
+    "unique_id" : "Celebrating Pride Month 4s",
+    "item_b_start_frame_offset" : 3.0530499999999998,
+    "item_a_end_frame_offset" : 0,
+    "duration" : 6.0060000000000002,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "Celebrating Pride Month 4s"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/Celebrating Pride Month Transition 1s.mov",
+    "user_transition" : true,
+    "unique_id" : "Celebrating Pride Month Transition 1s",
+    "item_b_start_frame_offset" : 0.65064999999999995,
+    "item_a_end_frame_offset" : 0.2669333333333333,
+    "duration" : 1.0009999999999999,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "Celebrating Pride Month Transition 1s"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/Celebrating Pride Month Transition 2s.mov",
+    "user_transition" : true,
+    "unique_id" : "Celebrating Pride Month Transition 2s",
+    "item_b_start_frame_offset" : 1.4848166666666665,
+    "item_a_end_frame_offset" : 0.56723333333333337,
+    "duration" : 2.0019999999999998,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "Celebrating Pride Month Transition 2s"
   },
   {
     "path" : "\/Applications\/OnTheAir CG\/MEDIA\/COMING_UP.mov",
@@ -276,6 +336,30 @@
     "name" : "gray wipe"
   },
   {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/Israel at War - Impact on America ROLL.mov",
+    "user_transition" : true,
+    "unique_id" : "Israel at War - Impact on America ROLL",
+    "item_b_start_frame_offset" : 3.5702333333333338,
+    "item_a_end_frame_offset" : 0,
+    "duration" : 6.0060000000000002,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "Israel at War - Impact on America ROLL"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/Israel at War ROLL.mov",
+    "user_transition" : true,
+    "unique_id" : "Israel at War ROLL",
+    "item_b_start_frame_offset" : 3.5702333333333338,
+    "item_a_end_frame_offset" : 0,
+    "duration" : 6.0060000000000002,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "Israel at War ROLL"
+  },
+  {
     "path" : "\/Applications\/OnTheAir CG\/MEDIA\/LATER.mov",
     "user_transition" : true,
     "unique_id" : "LATER",
@@ -334,6 +418,42 @@
     "type" : "alphaMovie",
     "warning" : "",
     "name" : "NEXT"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/People of NY v Trump - Scrippscast Wipe.mov",
+    "user_transition" : true,
+    "unique_id" : "People of NY v Trump - Scrippscast Wipe",
+    "item_b_start_frame_offset" : 1.0677333333333334,
+    "item_a_end_frame_offset" : 0.41708333333333336,
+    "duration" : 1.5015000000000001,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "People of NY v Trump - Scrippscast Wipe"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/People of NY v Trump 2sec.mov",
+    "user_transition" : true,
+    "unique_id" : "People of NY v Trump 2sec",
+    "item_b_start_frame_offset" : 1.6516499999999998,
+    "item_a_end_frame_offset" : 0,
+    "duration" : 4.0039999999999996,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "People of NY v Trump 2sec"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/People of NY v Trump 4sec.mov",
+    "user_transition" : true,
+    "unique_id" : "People of NY v Trump 4sec",
+    "item_b_start_frame_offset" : 3.4701333333333335,
+    "item_a_end_frame_offset" : 0,
+    "duration" : 6.0060000000000002,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "People of NY v Trump 4sec"
   },
   {
     "path" : "\/Applications\/OnTheAir CG\/MEDIA\/POLITICAL_IMPACT.mov",
@@ -720,18 +840,6 @@
     "name" : "ROLL_MADISON_BLUE"
   },
   {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/ROLL_McLanes Toy_Drive.mov",
-    "user_transition" : true,
-    "unique_id" : "ROLL_McLanes Toy_Drive",
-    "item_b_start_frame_offset" : 3.0530500000000003,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 6.5732333333333335,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "ROLL_McLanes Toy_Drive"
-  },
-  {
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/ROLL_MILAM_BLUE.mov",
     "user_transition" : true,
     "unique_id" : "ROLL_MILAM_BLUE",
@@ -996,78 +1104,6 @@
     "name" : "SHOW OPEN PM LATE"
   },
   {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/Solar Eclipse 2s.mov",
-    "user_transition" : true,
-    "unique_id" : "Solar Eclipse 2s",
-    "item_b_start_frame_offset" : 1.8518499999999998,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 4.0039999999999996,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "Solar Eclipse 2s"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/Solar Eclipse 4s.mov",
-    "user_transition" : true,
-    "unique_id" : "Solar Eclipse 4s",
-    "item_b_start_frame_offset" : 3.8872166666666672,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 6.0060000000000002,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "Solar Eclipse 4s"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/Solar Eclipse Wipe.mov",
-    "user_transition" : true,
-    "unique_id" : "Solar Eclipse Wipe",
-    "item_b_start_frame_offset" : 1.1678333333333333,
-    "item_a_end_frame_offset" : 0.31698333333333334,
-    "duration" : 1.5015000000000001,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "Solar Eclipse Wipe"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/State of the Union 2s.mov",
-    "user_transition" : true,
-    "unique_id" : "State of the Union 2s",
-    "item_b_start_frame_offset" : 1.7517499999999999,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 4.0039999999999996,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "State of the Union 2s"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/State of the Union 4s.mov",
-    "user_transition" : true,
-    "unique_id" : "State of the Union 4s",
-    "item_b_start_frame_offset" : 3.7537500000000006,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 6.0060000000000002,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "State of the Union 4s"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/State of the Union Wipe.mov",
-    "user_transition" : true,
-    "unique_id" : "State of the Union Wipe",
-    "item_b_start_frame_offset" : 1.3013000000000001,
-    "item_a_end_frame_offset" : 0.20020000000000002,
-    "duration" : 1.5015000000000001,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "State of the Union Wipe"
-  },
-  {
     "path" : "\/Applications\/OnTheAir CG\/MEDIA\/STILL_AHEAD.mov",
     "user_transition" : true,
     "unique_id" : "STILL_AHEAD",
@@ -1080,18 +1116,6 @@
     "name" : "STILL_AHEAD"
   },
   {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KRHD Renders\/STREAMING BUMP OUT.mov",
-    "user_transition" : true,
-    "unique_id" : "STREAMING BUMP OUT",
-    "item_b_start_frame_offset" : 20.003316666666667,
-    "item_a_end_frame_offset" : 0.83416666666666661,
-    "duration" : 20.02,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "STREAMING BUMP OUT"
-  },
-  {
     "path" : "\/Applications\/OnTheAir CG\/MEDIA\/SUSTAINABLE_FUTURE.mov",
     "user_transition" : true,
     "unique_id" : "SUSTAINABLE_FUTURE",
@@ -1102,42 +1126,6 @@
     "type" : "alphaMovie",
     "warning" : "",
     "name" : "SUSTAINABLE_FUTURE"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/The Big Game 2s.mov",
-    "user_transition" : true,
-    "unique_id" : "The Big Game 2s",
-    "item_b_start_frame_offset" : 1.5181833333333332,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 4.0039999999999996,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "The Big Game 2s"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/The Big Game 4s.mov",
-    "user_transition" : true,
-    "unique_id" : "The Big Game 4s",
-    "item_b_start_frame_offset" : 3.0530499999999998,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 6.0060000000000002,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "The Big Game 4s"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/The Big Game Wipe.mov",
-    "user_transition" : true,
-    "unique_id" : "The Big Game Wipe",
-    "item_b_start_frame_offset" : 1.05105,
-    "item_a_end_frame_offset" : 0.41708333333333336,
-    "duration" : 1.5015000000000001,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "The Big Game Wipe"
   },
   {
     "path" : "\/Applications\/OnTheAir CG\/MEDIA\/TODAYS_HEADLINES.mov",
@@ -1164,18 +1152,6 @@
     "name" : "TOP_STORIES"
   },
   {
-    "path" : "\/Applications\/OnTheAir CG\/MEDIA\/Trump Arrignment.mov",
-    "user_transition" : true,
-    "unique_id" : "Trump Arrignment",
-    "item_b_start_frame_offset" : 1.05105,
-    "item_a_end_frame_offset" : 0.41708333333333336,
-    "duration" : 1.5015000000000001,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "Trump Arrignment"
-  },
-  {
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/Weather Open 10s.mov",
     "user_transition" : true,
     "unique_id" : "Weather Open 10s",
@@ -1186,66 +1162,6 @@
     "type" : "alphaMovie",
     "warning" : "",
     "name" : "Weather Open 10s"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/WIPE Black History Month.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE Black History Month",
-    "item_b_start_frame_offset" : 1.1845166666666669,
-    "item_a_end_frame_offset" : 0.30030000000000001,
-    "duration" : 1.5015000000000001,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE Black History Month"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/WIPE Black History Month_2s.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE Black History Month_2s",
-    "item_b_start_frame_offset" : 1.5849166666666663,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 4.0039999999999996,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE Black History Month_2s"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/WIPE Black History Month_4s.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE Black History Month_4s",
-    "item_b_start_frame_offset" : 3.5869166666666668,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 6.0060000000000002,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE Black History Month_4s"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/WIPE CES 4s.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE CES 4s",
-    "item_b_start_frame_offset" : 3.7203833333333334,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 6.0060000000000002,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE CES 4s"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/WIPE MLK DAY.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE MLK DAY",
-    "item_b_start_frame_offset" : 1.1344666666666667,
-    "item_a_end_frame_offset" : 0.31698333333333334,
-    "duration" : 1.5015000000000001,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE MLK DAY"
   },
   {
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/WIPE SPORTS.mov",
@@ -2136,6 +2052,42 @@
     "name" : "WIPE_LOC_HEWITT_C_"
   },
   {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Locator Wipes\/WIPE_LOC_KILLEEN_A.mov",
+    "user_transition" : true,
+    "unique_id" : "WIPE_LOC_KILLEEN_A",
+    "item_b_start_frame_offset" : 1.1678333333333333,
+    "item_a_end_frame_offset" : 0.23356666666666667,
+    "duration" : 1.5015000000000001,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "WIPE_LOC_KILLEEN_A"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Locator Wipes\/WIPE_LOC_KILLEEN_B.mov",
+    "user_transition" : true,
+    "unique_id" : "WIPE_LOC_KILLEEN_B",
+    "item_b_start_frame_offset" : 1.1511499999999999,
+    "item_a_end_frame_offset" : 0.25025000000000003,
+    "duration" : 1.5015000000000001,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "WIPE_LOC_KILLEEN_B"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Locator Wipes\/WIPE_LOC_KILLEEN_C.mov",
+    "user_transition" : true,
+    "unique_id" : "WIPE_LOC_KILLEEN_C",
+    "item_b_start_frame_offset" : 1.1511499999999999,
+    "item_a_end_frame_offset" : 0.21688333333333334,
+    "duration" : 1.5015000000000001,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "WIPE_LOC_KILLEEN_C"
+  },
+  {
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Locator Wipes\/WIPE_LOC_LAMPASAS_4s_.mov",
     "user_transition" : true,
     "unique_id" : "WIPE_LOC_LAMPASAS_4s_",
@@ -2280,54 +2232,6 @@
     "name" : "WIPE_LOC_MILAM COUNTY_C_"
   },
   {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Locator Wipes\/WIPE_LOC_NORTH KILLEEN_4s_.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_LOC_NORTH KILLEEN_4s_",
-    "item_b_start_frame_offset" : 3.0864166666666661,
-    "item_a_end_frame_offset" : 0.25024999999999997,
-    "duration" : 4.0039999999999996,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_LOC_NORTH KILLEEN_4s_"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Locator Wipes\/WIPE_LOC_NORTH KILLEEN_A_.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_LOC_NORTH KILLEEN_A_",
-    "item_b_start_frame_offset" : 1.2512500000000002,
-    "item_a_end_frame_offset" : 0.25025000000000003,
-    "duration" : 1.5015000000000001,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_LOC_NORTH KILLEEN_A_"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Locator Wipes\/WIPE_LOC_NORTH KILLEEN_B_.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_LOC_NORTH KILLEEN_B_",
-    "item_b_start_frame_offset" : 1.1678333333333333,
-    "item_a_end_frame_offset" : 0.25025000000000003,
-    "duration" : 1.5015000000000001,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_LOC_NORTH KILLEEN_B_"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Locator Wipes\/WIPE_LOC_NORTH KILLEEN_C_.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_LOC_NORTH KILLEEN_C_",
-    "item_b_start_frame_offset" : 1.1511499999999999,
-    "item_a_end_frame_offset" : 0.23356666666666667,
-    "duration" : 1.5015000000000001,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_LOC_NORTH KILLEEN_C_"
-  },
-  {
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KRHD Renders\/Locator Wipes\/WIPE_LOC_ROBERTSON COUNTY_4s_.mov",
     "user_transition" : true,
     "unique_id" : "WIPE_LOC_ROBERTSON COUNTY_4s_",
@@ -2422,54 +2326,6 @@
     "type" : "alphaMovie",
     "warning" : "",
     "name" : "WIPE_LOC_SALADO_C_"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Locator Wipes\/WIPE_LOC_SOUTH KILLEEN_4s_.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_LOC_SOUTH KILLEEN_4s_",
-    "item_b_start_frame_offset" : 3.0864166666666661,
-    "item_a_end_frame_offset" : 0.25024999999999997,
-    "duration" : 4.0039999999999996,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_LOC_SOUTH KILLEEN_4s_"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Locator Wipes\/WIPE_LOC_SOUTH KILLEEN_A_.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_LOC_SOUTH KILLEEN_A_",
-    "item_b_start_frame_offset" : 1.2512500000000002,
-    "item_a_end_frame_offset" : 0.25025000000000003,
-    "duration" : 1.5015000000000001,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_LOC_SOUTH KILLEEN_A_"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Locator Wipes\/WIPE_LOC_SOUTH KILLEEN_B_.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_LOC_SOUTH KILLEEN_B_",
-    "item_b_start_frame_offset" : 1.1678333333333333,
-    "item_a_end_frame_offset" : 0.25025000000000003,
-    "duration" : 1.5015000000000001,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_LOC_SOUTH KILLEEN_B_"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Locator Wipes\/WIPE_LOC_SOUTH KILLEEN_C_.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_LOC_SOUTH KILLEEN_C_",
-    "item_b_start_frame_offset" : 1.1511499999999999,
-    "item_a_end_frame_offset" : 0.23356666666666667,
-    "duration" : 1.5015000000000001,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_LOC_SOUTH KILLEEN_C_"
   },
   {
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Locator Wipes\/WIPE_LOC_TEMPLE_4s_.mov",
@@ -2928,52 +2784,76 @@
     "name" : "WIPE_REP_BRIEANNA_MILAM COUNTY_4s_"
   },
   {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KRHD Renders\/Reporter Wipes\/WIPE_REP_CHRIS_BRAZOS COUNTY.mov",
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_CHANTALE_CHINA_SPRING.mov",
     "user_transition" : true,
-    "unique_id" : "WIPE_REP_CHRIS_BRAZOS COUNTY",
+    "unique_id" : "WIPE_REP_CHANTALE_CHINA_SPRING",
     "item_b_start_frame_offset" : 1.5515499999999998,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 2.0019999999999998,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_REP_CHRIS_BRAZOS COUNTY"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KRHD Renders\/Reporter Wipes\/WIPE_REP_CHRIS_BRAZOS COUNTY_4s_.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_REP_CHRIS_BRAZOS COUNTY_4s_",
-    "item_b_start_frame_offset" : 3.4701333333333326,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 4.0039999999999996,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_REP_CHRIS_BRAZOS COUNTY_4s_"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KRHD Renders\/Reporter Wipes\/WIPE_REP_CHRIS_ROBERTSON COUNTY.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_REP_CHRIS_ROBERTSON COUNTY",
-    "item_b_start_frame_offset" : 1.5348666666666664,
     "item_a_end_frame_offset" : 0.2669333333333333,
     "duration" : 2.0019999999999998,
     "should_premultiply_by_alpha" : true,
     "type" : "alphaMovie",
     "warning" : "",
-    "name" : "WIPE_REP_CHRIS_ROBERTSON COUNTY"
+    "name" : "WIPE_REP_CHANTALE_CHINA_SPRING"
   },
   {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KRHD Renders\/Reporter Wipes\/WIPE_REP_CHRIS_ROBERTSON COUNTY_4s_.mov",
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_CHANTALE_CHINA_SPRING_4S.mov",
     "user_transition" : true,
-    "unique_id" : "WIPE_REP_CHRIS_ROBERTSON COUNTY_4s_",
-    "item_b_start_frame_offset" : 3.4367666666666663,
+    "unique_id" : "WIPE_REP_CHANTALE_CHINA_SPRING_4S",
+    "item_b_start_frame_offset" : 3.4868166666666665,
     "item_a_end_frame_offset" : 0.2669333333333333,
     "duration" : 4.0039999999999996,
     "should_premultiply_by_alpha" : true,
     "type" : "alphaMovie",
     "warning" : "",
-    "name" : "WIPE_REP_CHRIS_ROBERTSON COUNTY_4s_"
+    "name" : "WIPE_REP_CHANTALE_CHINA_SPRING_4S"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_CHANTALE_HILLSBORO.mov",
+    "user_transition" : true,
+    "unique_id" : "WIPE_REP_CHANTALE_HILLSBORO",
+    "item_b_start_frame_offset" : 1.5515499999999998,
+    "item_a_end_frame_offset" : 0.2669333333333333,
+    "duration" : 2.0019999999999998,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "WIPE_REP_CHANTALE_HILLSBORO"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_CHANTALE_HILLSBORO_4S.mov",
+    "user_transition" : true,
+    "unique_id" : "WIPE_REP_CHANTALE_HILLSBORO_4S",
+    "item_b_start_frame_offset" : 3.4868166666666665,
+    "item_a_end_frame_offset" : 0.2669333333333333,
+    "duration" : 4.0039999999999996,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "WIPE_REP_CHANTALE_HILLSBORO_4S"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_CHANTALE_VALLEY_MILLS.mov",
+    "user_transition" : true,
+    "unique_id" : "WIPE_REP_CHANTALE_VALLEY_MILLS",
+    "item_b_start_frame_offset" : 1.5515499999999998,
+    "item_a_end_frame_offset" : 0.2669333333333333,
+    "duration" : 2.0019999999999998,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "WIPE_REP_CHANTALE_VALLEY_MILLS"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_CHANTALE_VALLEY_MILLS_4S.mov",
+    "user_transition" : true,
+    "unique_id" : "WIPE_REP_CHANTALE_VALLEY_MILLS_4S",
+    "item_b_start_frame_offset" : 3.4868166666666665,
+    "item_a_end_frame_offset" : 0.2669333333333333,
+    "duration" : 4.0039999999999996,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "WIPE_REP_CHANTALE_VALLEY_MILLS_4S"
   },
   {
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KRHD Renders\/Reporter Wipes\/WIPE_REP_DIAMOND_BRYAN.mov",
@@ -3048,54 +2928,6 @@
     "name" : "WIPE_REP_DOMINIQUE_BAYLOR_4s"
   },
   {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_DOMINIQUE_CHINA SPRING.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_REP_DOMINIQUE_CHINA SPRING",
-    "item_b_start_frame_offset" : 1.5348666666666664,
-    "item_a_end_frame_offset" : 0.2669333333333333,
-    "duration" : 2.0019999999999998,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_REP_DOMINIQUE_CHINA SPRING"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_DOMINIQUE_CHINA SPRING_4s_.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_REP_DOMINIQUE_CHINA SPRING_4s_",
-    "item_b_start_frame_offset" : 3.4367666666666663,
-    "item_a_end_frame_offset" : 0.2669333333333333,
-    "duration" : 4.0039999999999996,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_REP_DOMINIQUE_CHINA SPRING_4s_"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_DOMINIQUE_VALLEY MILLS.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_REP_DOMINIQUE_VALLEY MILLS",
-    "item_b_start_frame_offset" : 1.5348666666666664,
-    "item_a_end_frame_offset" : 0.2669333333333333,
-    "duration" : 2.0019999999999998,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_REP_DOMINIQUE_VALLEY MILLS"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_DOMINIQUE_VALLEY MILLS_4s_.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_REP_DOMINIQUE_VALLEY MILLS_4s_",
-    "item_b_start_frame_offset" : 3.4367666666666663,
-    "item_a_end_frame_offset" : 0.2669333333333333,
-    "duration" : 4.0039999999999996,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_REP_DOMINIQUE_VALLEY MILLS_4s_"
-  },
-  {
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_DOMINIQUE_WACO.mov",
     "user_transition" : true,
     "unique_id" : "WIPE_REP_DOMINIQUE_WACO",
@@ -3120,28 +2952,52 @@
     "name" : "WIPE_REP_DOMINIQUE_WACO_4s"
   },
   {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_DOMINIQUE_WEST.mov",
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KRHD Renders\/Reporter Wipes\/WIPE_REP_DONNA_SPORTS.mov",
     "user_transition" : true,
-    "unique_id" : "WIPE_REP_DOMINIQUE_WEST",
-    "item_b_start_frame_offset" : 1.5348666666666664,
+    "unique_id" : "WIPE_REP_DONNA_SPORTS",
+    "item_b_start_frame_offset" : 1.5515499999999998,
     "item_a_end_frame_offset" : 0.2669333333333333,
     "duration" : 2.0019999999999998,
     "should_premultiply_by_alpha" : true,
     "type" : "alphaMovie",
     "warning" : "",
-    "name" : "WIPE_REP_DOMINIQUE_WEST"
+    "name" : "WIPE_REP_DONNA_SPORTS"
   },
   {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_DOMINIQUE_WEST_4s_.mov",
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KRHD Renders\/Reporter Wipes\/WIPE_REP_DONNA_SPORTS_4S.mov",
     "user_transition" : true,
-    "unique_id" : "WIPE_REP_DOMINIQUE_WEST_4s_",
-    "item_b_start_frame_offset" : 3.4367666666666663,
+    "unique_id" : "WIPE_REP_DONNA_SPORTS_4S",
+    "item_b_start_frame_offset" : 3.4868166666666665,
     "item_a_end_frame_offset" : 0.2669333333333333,
     "duration" : 4.0039999999999996,
     "should_premultiply_by_alpha" : true,
     "type" : "alphaMovie",
     "warning" : "",
-    "name" : "WIPE_REP_DOMINIQUE_WEST_4s_"
+    "name" : "WIPE_REP_DONNA_SPORTS_4S"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_EPIPHANY_BELL_COUNTY.mov",
+    "user_transition" : true,
+    "unique_id" : "WIPE_REP_EPIPHANY_BELL_COUNTY",
+    "item_b_start_frame_offset" : 1.5515499999999998,
+    "item_a_end_frame_offset" : 0.2669333333333333,
+    "duration" : 2.0019999999999998,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "WIPE_REP_EPIPHANY_BELL_COUNTY"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_EPIPHANY_BELL_COUNTY_4S.mov",
+    "user_transition" : true,
+    "unique_id" : "WIPE_REP_EPIPHANY_BELL_COUNTY_4S",
+    "item_b_start_frame_offset" : 3.4868166666666665,
+    "item_a_end_frame_offset" : 0.2669333333333333,
+    "duration" : 4.0039999999999996,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "WIPE_REP_EPIPHANY_BELL_COUNTY_4S"
   },
   {
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_EPIPHANY_BELTON.mov",
@@ -3168,28 +3024,28 @@
     "name" : "WIPE_REP_EPIPHANY_BELTON_4s"
   },
   {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_EPIPHANY_NORTHERN_KILLEEN_4s.mov",
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_EPIPHANY_KILLEEN.mov",
     "user_transition" : true,
-    "unique_id" : "WIPE_REP_EPIPHANY_NORTHERN_KILLEEN_4s",
-    "item_b_start_frame_offset" : 3.4868166666666665,
+    "unique_id" : "WIPE_REP_EPIPHANY_KILLEEN",
+    "item_b_start_frame_offset" : 1.5515499999999998,
     "item_a_end_frame_offset" : 0.2669333333333333,
-    "duration" : 4.1040999999999999,
+    "duration" : 2.0019999999999998,
     "should_premultiply_by_alpha" : true,
     "type" : "alphaMovie",
     "warning" : "",
-    "name" : "WIPE_REP_EPIPHANY_NORTHERN_KILLEEN_4s"
+    "name" : "WIPE_REP_EPIPHANY_KILLEEN"
   },
   {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_EPIPHANY_NORTHERN_KILLEN.mov",
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_EPIPHANY_KILLEEN_4S.mov",
     "user_transition" : true,
-    "unique_id" : "WIPE_REP_EPIPHANY_NORTHERN_KILLEN",
-    "item_b_start_frame_offset" : 1.55155,
-    "item_a_end_frame_offset" : 0.26693333333333336,
-    "duration" : 2.0854166666666667,
+    "unique_id" : "WIPE_REP_EPIPHANY_KILLEEN_4S",
+    "item_b_start_frame_offset" : 3.4868166666666665,
+    "item_a_end_frame_offset" : 0.2669333333333333,
+    "duration" : 4.0039999999999996,
     "should_premultiply_by_alpha" : true,
     "type" : "alphaMovie",
     "warning" : "",
-    "name" : "WIPE_REP_EPIPHANY_NORTHERN_KILLEN"
+    "name" : "WIPE_REP_EPIPHANY_KILLEEN_4S"
   },
   {
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_EPIPHANY_TEMPLE.mov",
@@ -3238,78 +3094,6 @@
     "type" : "alphaMovie",
     "warning" : "",
     "name" : "WIPE_REP_HEATHER _WACO_4s"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_JUSTIN_HARKER_HEIGHTS.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_REP_JUSTIN_HARKER_HEIGHTS",
-    "item_b_start_frame_offset" : 1.55155,
-    "item_a_end_frame_offset" : 0.26693333333333336,
-    "duration" : 2.0854166666666667,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_REP_JUSTIN_HARKER_HEIGHTS"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_JUSTIN_HARKER_HEIGHTS_4s.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_REP_JUSTIN_HARKER_HEIGHTS_4s",
-    "item_b_start_frame_offset" : 3.4868166666666665,
-    "item_a_end_frame_offset" : 0.2669333333333333,
-    "duration" : 4.1040999999999999,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_REP_JUSTIN_HARKER_HEIGHTS_4s"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_JUSTIN_SALADO.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_REP_JUSTIN_SALADO",
-    "item_b_start_frame_offset" : 1.55155,
-    "item_a_end_frame_offset" : 0.26693333333333336,
-    "duration" : 2.0854166666666667,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_REP_JUSTIN_SALADO"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_JUSTIN_SALADO_4s.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_REP_JUSTIN_SALADO_4s",
-    "item_b_start_frame_offset" : 3.4868166666666665,
-    "item_a_end_frame_offset" : 0.2669333333333333,
-    "duration" : 4.1040999999999999,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_REP_JUSTIN_SALADO_4s"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_JUSTIN_SOUTHERN_KILLEEN.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_REP_JUSTIN_SOUTHERN_KILLEEN",
-    "item_b_start_frame_offset" : 1.55155,
-    "item_a_end_frame_offset" : 0.26693333333333336,
-    "duration" : 2.0854166666666667,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_REP_JUSTIN_SOUTHERN_KILLEEN"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_JUSTIN_SOUTHERN_KILLEEN_4s.mov",
-    "user_transition" : true,
-    "unique_id" : "WIPE_REP_JUSTIN_SOUTHERN_KILLEEN_4s",
-    "item_b_start_frame_offset" : 3.4868166666666665,
-    "item_a_end_frame_offset" : 0.2669333333333333,
-    "duration" : 4.1040999999999999,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "WIPE_REP_JUSTIN_SOUTHERN_KILLEEN_4s"
   },
   {
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_MADISON_GATESVILLE.mov",
@@ -3382,6 +3166,54 @@
     "type" : "alphaMovie",
     "warning" : "",
     "name" : "WIPE_REP_MADISON_MCGREGOR_4s"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_SHAHJI_SPORTS.mov",
+    "user_transition" : true,
+    "unique_id" : "WIPE_REP_SHAHJI_SPORTS",
+    "item_b_start_frame_offset" : 1.5515499999999998,
+    "item_a_end_frame_offset" : 0.2669333333333333,
+    "duration" : 2.0019999999999998,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "WIPE_REP_SHAHJI_SPORTS"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KXXV Renders\/Reporter Wipes\/WIPE_REP_SHAHJI_SPORTS_4S.mov",
+    "user_transition" : true,
+    "unique_id" : "WIPE_REP_SHAHJI_SPORTS_4S",
+    "item_b_start_frame_offset" : 3.4868166666666665,
+    "item_a_end_frame_offset" : 0.2669333333333333,
+    "duration" : 4.0039999999999996,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "WIPE_REP_SHAHJI_SPORTS_4S"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KRHD Renders\/Reporter Wipes\/WIPE_REP_SIMONA_BRYAN.mov",
+    "user_transition" : true,
+    "unique_id" : "WIPE_REP_SIMONA_BRYAN",
+    "item_b_start_frame_offset" : 1.5515499999999998,
+    "item_a_end_frame_offset" : 0.2669333333333333,
+    "duration" : 2.0019999999999998,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "WIPE_REP_SIMONA_BRYAN"
+  },
+  {
+    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KRHD Renders\/Reporter Wipes\/WIPE_REP_SIMONA_BRYAN_4S.mov",
+    "user_transition" : true,
+    "unique_id" : "WIPE_REP_SIMONA_BRYAN_4S",
+    "item_b_start_frame_offset" : 3.4868166666666665,
+    "item_a_end_frame_offset" : 0.2669333333333333,
+    "duration" : 4.0039999999999996,
+    "should_premultiply_by_alpha" : true,
+    "type" : "alphaMovie",
+    "warning" : "",
+    "name" : "WIPE_REP_SIMONA_BRYAN_4S"
   },
   {
     "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/KRHD Renders\/Reporter Wipes\/WIPE_REP_SIMONA_COLLEGE STATION.mov",
@@ -3562,42 +3394,6 @@
     "type" : "alphaMovie",
     "warning" : "",
     "name" : "WIPE_WHATS_HAPPENING_4s"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/Womens History Month 2s.mov",
-    "user_transition" : true,
-    "unique_id" : "Womens History Month 2s",
-    "item_b_start_frame_offset" : 1.5181833333333332,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 4.0039999999999996,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "Womens History Month 2s"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/Womens History Month 4s.mov",
-    "user_transition" : true,
-    "unique_id" : "Womens History Month 4s",
-    "item_b_start_frame_offset" : 3.0530499999999998,
-    "item_a_end_frame_offset" : 0,
-    "duration" : 6.0060000000000002,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "Womens History Month 4s"
-  },
-  {
-    "path" : "\/Applications\/OnTheAir CG\/localMEDIA\/Womens History Month Wipe.mov",
-    "user_transition" : true,
-    "unique_id" : "Womens History Month Wipe",
-    "item_b_start_frame_offset" : 1.0176833333333333,
-    "item_a_end_frame_offset" : 0.48381666666666667,
-    "duration" : 1.5015000000000001,
-    "should_premultiply_by_alpha" : true,
-    "type" : "alphaMovie",
-    "warning" : "",
-    "name" : "Womens History Month Wipe"
   },
   {
     "path" : "\/Applications\/OnTheAir CG\/MEDIA\/YOUR_HEALTH.mov",
